@@ -4,7 +4,7 @@ const App = () => {
 
   const handleInput = (event) =>{
    // use console.log
-let str=event.target.value;
+const str=event.target.value;
 console.log(str);
   }
 
